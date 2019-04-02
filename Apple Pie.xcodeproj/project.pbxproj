@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		60EC5EB4224A0E3D008A72CF /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60EC5EB3224A0E3D008A72CF /* Game.swift */; };
 		D60EF2372223F77B00319700 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60EF2362223F77B00319700 /* AppDelegate.swift */; };
 		D60EF2392223F77B00319700 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60EF2382223F77B00319700 /* ViewController.swift */; };
 		D60EF23C2223F77B00319700 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D60EF23A2223F77B00319700 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		60EC5EB3224A0E3D008A72CF /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 		D60EF2332223F77B00319700 /* Apple Pie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Apple Pie.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D60EF2362223F77B00319700 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D60EF2382223F77B00319700 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				D60EF2362223F77B00319700 /* AppDelegate.swift */,
 				D60EF2382223F77B00319700 /* ViewController.swift */,
 				D60EF23A2223F77B00319700 /* Main.storyboard */,
+				60EC5EB3224A0E3D008A72CF /* Game.swift */,
 				D60EF23D2223F77D00319700 /* Assets.xcassets */,
 				D60EF23F2223F77D00319700 /* LaunchScreen.storyboard */,
 				D60EF2422223F77D00319700 /* Info.plist */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D60EF2392223F77B00319700 /* ViewController.swift in Sources */,
+				60EC5EB4224A0E3D008A72CF /* Game.swift in Sources */,
 				D60EF2372223F77B00319700 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
